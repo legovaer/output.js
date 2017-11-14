@@ -1,2 +1,2 @@
-var colors = require('./lib/output');
-module['exports'] = output;
+var colorOutput = require('./lib/color-output');
+module['exports'] = colorOutput;
