@@ -1,5 +1,5 @@
 {
-  "name": "output",
+  "name": "color-output",
   "version": "1.0.0",
   "author": "Levi Govaerts <legovaer@me.com>",
   "description": "A NodeJS package which allows you to use a colorized logger.",

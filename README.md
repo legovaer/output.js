@@ -1,4 +1,4 @@
-# output.js
+# color-output.js
 
 A colorized formatter for your NodeJS applications.
 
