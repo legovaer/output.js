@@ -1,0 +1,36 @@
+{
+  "name": "output",
+  "version": "1.0.0",
+  "author": "Levi Govaerts <legovaer@me.com>",
+  "description": "A NodeJS package which allows you to use a colorized logger.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "nodejs",
+    "formatter",
+    "colors",
+    "logger"
+  ],
+  "files": [
+    "examples",
+    "lib",
+    "LICENSE",
+    "safe.js",
+    "themes"
+  ],
+  "homepage": "https://github.com/legovaer/output.js",
+  "bugs": "https://github.com/legovaer/output.js/issues",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/legovaer/output.js.git"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  }
+}
