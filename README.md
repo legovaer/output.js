@@ -1,4 +1,4 @@
-# colorOutput.js
+# color-output.js
 
 A colorized formatter for your NodeJS applications.
 
@@ -26,7 +26,7 @@ This library takes into account the log level you are setting. By default only `
 will be sown. If you want to show more output (verbose & debug) you can specify this as  such:
 
 ```javascript
-var output = require("output");
+var output = require("color-output");
 output.setVerboseLevel("verbose");
 output.verbose("Test");
 
@@ -35,7 +35,7 @@ output.verbose("Test");
 ### Logging to the console
 
 ```javascript
-var output = require("output");
+var output = require("color-output");
 output.log("A regular log message");
 output.error("An error message");
 output.warn("A warning");
