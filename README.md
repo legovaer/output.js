@@ -8,7 +8,7 @@ A colorized formatter for your NodeJS applications.
 
 ```bash
 
-npm install output
+npm install color-output
 
 ```
 
